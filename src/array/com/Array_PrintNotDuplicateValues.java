@@ -1,6 +1,6 @@
 package array.com;
 
-public class Array_PrintNotDuplicateVaiues {
+public class Array_PrintNotDuplicateValues {
     public static void main(String[] args) {
         int ar[] = {1,2,3,1,2,5,6};
 
